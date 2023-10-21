@@ -9,3 +9,7 @@ Reach out to me at jpatrick5402@gmail.com.
 <!--- Quality Over Qantity | Commits do not prove skill --->
 <!--- Quality Over Qantity | Commits do not prove skill --->
 <!--- Quality Over Qantity | Commits do not prove skill --->
+<!--- Quality Over Qantity | Commits do not prove skill --->
+<!--- Quality Over Qantity | Commits do not prove skill --->
+<!--- Quality Over Qantity | Commits do not prove skill --->
+<!--- Quality Over Qantity | Commits do not prove skill --->
