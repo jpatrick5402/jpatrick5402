@@ -8,11 +8,29 @@ Also I work as a full time Help Desk Analys at the University of Rochester
 
 I’m interested in Robotics, Automation, Machine Learning and Everything that has to do with computers.
 I'm currently seeking any jobs that allow me to grow as a developer.
-  
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
-</div>
 
+ ---
+ <h1 align="center">Project Showcase</h1>
+ <table align="center">
+   <tr>
+    <th>Facial Detection Software</th>
+    <th>C# WPF application</th>
+    <th>Easy Python Email</th>
+  </tr>
+  <tr>
+    <td>https://github.com/jpatrick5402/Facial-Recognition-Enhanced</td>
+    <td>https://github.com/jpatrick5402/HelpDeskTool</td>
+    <td>https://github.com/jpatrick5402/Auto-Email</td>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"/></td>
+    <td><img src="https://media.giphy.com/media/RAQjpY6HbYjWCRQZ5n/giphy.gif"/></td>
+    <td><img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif"/></td>
+  </tr>
+ </table>
+
+
+ 
  ---
 
 <div align="center">
