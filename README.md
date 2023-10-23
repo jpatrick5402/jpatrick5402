@@ -22,11 +22,6 @@ I'm currently seeking any jobs that allow me to grow as a developer.
     <td>https://github.com/jpatrick5402/HelpDeskTool</td>
     <td>https://github.com/jpatrick5402/Auto-Email</td>
   </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" align="center" /></td>
-    <td><img src="https://media.giphy.com/media/BUKgXhu9o5kqI/giphy.gif" align="center" /></td>
-    <td><img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif" align="center" /></td>
-  </tr>
  </table>
 
 
