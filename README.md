@@ -17,10 +17,10 @@ I'm currently seeking any jobs that allow me to grow as a developer.
     <th>C# WPF application</th>
     <th>Easy Python Email</th>
   </tr>
-  <tr>
-    <td>https://github.com/jpatrick5402/Facial-Recognition-Enhanced</td>
-    <td>https://github.com/jpatrick5402/HelpDeskTool</td>
-    <td>https://github.com/jpatrick5402/Auto-Email</td>
+  <tr align="center">
+    <td><a href="https://github.com/jpatrick5402/Facial-Recognition-Enhanced">Facial-Recognition-Enhanced</td>
+    <td><a href="https://github.com/jpatrick5402/HelpDeskTool">HelpDeskTool</td>
+    <td><a href="https://github.com/jpatrick5402/Auto-Email">Auto-Email</td>
   </tr>
  </table>
 
