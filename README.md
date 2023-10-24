@@ -1,12 +1,12 @@
 # Hello There 👋
 
-Welcome to my Github page, I’m Joseph and I am a student in Computer Science, and I love to code.
+Welcome to my Github page. I’m Joseph, and I am a student in Computer Science, and I love to code.
 
-Currently I'm studying to attain a degree in Computer Science Cybersecurity from Liberty University
+Currently, I'm studying to attain a degree in computer science and cybersecurity from Liberty University.
 
-Also I work as a full time Help Desk Analys at the University of Rochester
+Also, I work as a full-time help desk analyst at the University of Rochester.
 
-I’m interested in Robotics, Automation, Machine Learning and Everything that has to do with computers.
+I’m interested in robotics, automation, machine learning, and everything that has to do with computers.
 I'm currently seeking any jobs that allow me to grow as a developer.
 
  ---
