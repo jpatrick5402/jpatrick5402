@@ -22,12 +22,15 @@ I'm currently seeking any jobs that allow me to grow as a developer.
     <td><a href="https://github.com/jpatrick5402/HelpDeskTool">HelpDeskTool</td>
     <td><a href="https://github.com/jpatrick5402/Auto-Email">Auto-Email</td>
   </tr>
+  <tr>
+   <td><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="250" height="150"/></td>
+   <td><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="150"/></td>
+   <td><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="250" height="150" /></td>
+  </tr>
  </table>
 
 
  
- ---
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
