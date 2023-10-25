@@ -23,9 +23,9 @@ I'm currently seeking any jobs that allow me to grow as a developer.
     <td><a href="https://github.com/jpatrick5402/Auto-Email">Auto-Email</td>
   </tr>
   <tr>
-   <td><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="250" height="150"/></td>
-   <td><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="150"/></td>
-   <td><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="250" height="150" /></td>
+   <td><a href="https://github.com/jpatrick5402/Facial-Recognition-Enhanced"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="250" height="150"/></a></td>
+   <td><a href="https://github.com/jpatrick5402/HelpDeskTool"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="150"/></a></td>
+   <td><a href="https://github.com/jpatrick5402/Auto-Email"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" height="150"/></a></td>
   </tr>
  </table>
 
