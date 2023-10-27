@@ -59,3 +59,4 @@ I'm currently seeking any jobs that allow me to grow as a developer.
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
   <br>
 </div>
+<!--- Quality Over Quantity | Commits do not prove skill --->
