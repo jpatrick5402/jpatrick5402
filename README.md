@@ -18,12 +18,12 @@ I'm currently seeking any jobs that allow me to grow as a developer.
     <th>Home File Server</th>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/jpatrick5402/Facial-Recognition-Enhanced">Facial-Recognition-Enhanced</td>
+    <td><a href="https://github.com/jpatrick5402/Facial-Detection-Enhanced">Facial-Recognition-Enhanced</td>
     <td><a href="https://github.com/jpatrick5402/HelpDeskTool">HelpDeskTool</td>
     <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN">Homemade-NAS-and-VPN</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/jpatrick5402/Facial-Recognition-Enhanced"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="250" height="150"/></a></td>
+   <td><a href="https://github.com/jpatrick5402/Facial-Detection-Enhanced"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="250" height="150"/></a></td>
    <td><a href="https://github.com/jpatrick5402/HelpDeskTool"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="150"/></a></td>
    <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN"><img src="https://media.giphy.com/media/IbCX8pCcOTmKPF2M5O/giphy.gif" width="250" height="150"/></a></td>
   </tr>
