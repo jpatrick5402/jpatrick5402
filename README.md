@@ -18,7 +18,7 @@ I'm currently seeking any jobs that allow me to grow as a developer.
     <th>Home File Server</th>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/jpatrick5402/Facial-Detection-Enhanced">Facial-Recognition-Enhanced</td>
+    <td><a href="https://github.com/jpatrick5402/Facial-Detection-Enhanced">Facial-Detection-Enhanced</td>
     <td><a href="https://github.com/jpatrick5402/HelpDeskTool">HelpDeskTool</td>
     <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN">Homemade-NAS-and-VPN</td>
   </tr>
