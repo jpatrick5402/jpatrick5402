@@ -62,3 +62,4 @@ I'm currently seeking any jobs that allow me to grow as a developer.
 <!--- Quality Over Quantity | Commits do not prove skill --->
 <!--- Quality Over Quantity | Commits do not prove skill --->
 <!--- Quality Over Quantity | Commits do not prove skill --->
+<!--- Quality Over Quantity | Commits do not prove skill --->
