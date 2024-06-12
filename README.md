@@ -6,7 +6,7 @@ Currently, I'm studying to attain a degree in computer science and cybersecurity
 
 Also, I work as a full-time help desk analyst at the University of Rochester.
 
-I’m interested in robotics, automation, machine learning, and everything that has to do with computers.
+I’m interested in robotics, embedded systems, machine learning, and everything that has to do with computers.
 I'm currently seeking any jobs that allow me to grow as a developer.
 
  ---
