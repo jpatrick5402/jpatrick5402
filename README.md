@@ -50,9 +50,6 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
     <a href="https://www.linkedin.com/in/joseph-patrick-b84990238/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="25"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100010063573110">
-      <img src="https://img.shields.io/badge/FaceBook-darkblue?logo=facebook&logoColor=white&style=for-the-badge" height="25"/>
-    </a>
     <a href="mailto:jpatrick5402@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" width="100" height="25">
     </a>
