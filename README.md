@@ -14,7 +14,7 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
  <table align="center">
    <tr>
     <th>Facial Detection Software</th>
-    <th>C# WPF application</th>
+    <th>C#/.NET WPF Desktop application</th>
     <th>Home File Server & VPN</th>
   </tr>
   <tr align="center">
