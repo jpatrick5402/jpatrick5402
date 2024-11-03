@@ -13,17 +13,17 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
  <h1 align="center">Project Showcase</h1>
  <table align="center">
    <tr>
-    <th>Facial Detection Software</th>
+    <th>Custom-Web-Server</th>
     <th>C#/.NET WPF Desktop application</th>
     <th>Home File Server & VPN</th>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/jpatrick5402/Facial-Detection-Enhanced">Facial-Detection-Enhanced</td>
+    <td><a href="https://github.com/jpatrick5402/Custom-Web-Server">Custom-Web-Server</td>
     <td><a href="https://github.com/jpatrick5402/HelpDeskTool">HelpDeskTool</td>
     <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN">Homemade-NAS-and-VPN</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/jpatrick5402/Facial-Detection-Enhanced"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="250" height="150"/></a></td>
+   <td><a href="https://github.com/jpatrick5402/Custom-Web-Server"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZxazVxOTZwMGk5amV1ajNiMGN3MXJzNHJrOGtnZ2xqODI4YmU5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9igGG6KxpY0eY0Sr5u/giphy.gif" width="250" height="150"/></a></td>
    <td><a href="https://github.com/jpatrick5402/HelpDeskTool"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="150"/></a></td>
    <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN"><img src="https://media.giphy.com/media/IbCX8pCcOTmKPF2M5O/giphy.gif" width="250" height="150"/></a></td>
   </tr>
