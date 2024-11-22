@@ -13,12 +13,12 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
  <h1 align="center">Project Showcase</h1>
  <table align="center">
    <tr>
-    <th>Custom-Web-Server</th>
+    <th>Embedded-Web-Server</th>
     <th>C#/.NET WPF Desktop application</th>
     <th>Home File Server & VPN</th>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/jpatrick5402/Custom-Web-Server">Custom-Web-Server</td>
+    <td><a href="https://github.com/jpatrick5402/Embedded-Web-Server">Embedded-Web-Server</td>
     <td><a href="https://github.com/jpatrick5402/HelpDeskTool">HelpDeskTool</td>
     <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN">Homemade-NAS-and-VPN</td>
   </tr>
