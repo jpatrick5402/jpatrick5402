@@ -9,6 +9,7 @@ Also, I work as a full-time service desk analyst II at the University of Rochest
 I’m interested in software engineering, robotics, embedded systems, machine learning, and everything that has to do with building useful software.
 I'm currently seeking any jobs/projects that allow me to grow as a developer.
 
+<a href="https://jpatrick5402.github.io">Take a look at my webpage</a>
  ---
  <h1 align="center">Project Showcase</h1>
  <table align="center">
