@@ -9,7 +9,8 @@ Also, I work as a full-time service desk analyst II at the University of Rochest
 I’m interested in software engineering, robotics, embedded systems, machine learning, and everything that has to do with building useful software.
 I'm currently seeking any jobs/projects that allow me to grow as a developer.
 
-<a href="https://jpatrick5402.github.io">Take a look at my webpage</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpatrick5402&layout=donut&exclude_repo=dotfiles,HelpDeskTool&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
  ---
  <h1 align="center">Project Showcase</h1>
  <table align="center">
@@ -20,12 +21,12 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
   </tr>
   <tr align="center">
     <td><a href="https://github.com/jpatrick5402/Embedded-Web-Server">Embedded-Web-Server</td>
-    <td><a href="https://github.com/jpatrick5402/HelpDeskTool">HelpDeskTool</td>
+    <td><a href="https://github.com/LostProgrammer1010/URMC-HUB">HelpDeskTool -> URMC-HUB</td>
     <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN">Homemade-NAS-and-VPN</td>
   </tr>
   <tr>
    <td><a href="https://github.com/jpatrick5402/Custom-Web-Server"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZxazVxOTZwMGk5amV1ajNiMGN3MXJzNHJrOGtnZ2xqODI4YmU5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9igGG6KxpY0eY0Sr5u/giphy.gif" width="250" height="150"/></a></td>
-   <td><a href="https://github.com/jpatrick5402/HelpDeskTool"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="150"/></a></td>
+   <td><a href="https://github.com/LostProgrammer1010/URMC-HUB"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="150"/></a></td>
    <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN"><img src="https://media.giphy.com/media/IbCX8pCcOTmKPF2M5O/giphy.gif" width="250" height="150"/></a></td>
   </tr>
  </table>
@@ -55,6 +56,9 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
     <a href="mailto:jpatrick5402@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" width="100" height="25">
     </a>
+   <a href="http://jpatrick5402.github.io", target="blank">
+      <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge" width="100" height="25">
+   </a>
   <br>
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
   <br>
