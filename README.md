@@ -21,7 +21,7 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
   </tr>
   <tr align="center">
     <td><a href="https://github.com/jpatrick5402/Embedded-Web-Server">Embedded-Web-Server</td>
-    <td><a href="https://github.com/LostProgrammer1010/URMC-HUB">HelpDeskTool -> URMC-HUB</td>
+    <td><a href="https://github.com/jpatrick5402/HelpDeskTool">HelpDeskTool</a> -> <a href="https://github.com/LostProgrammer1010/URMC-HUB">URMC-HUB</a></td>
     <td><a href="https://github.com/jpatrick5402/Homemade-NAS-and-VPN">Homemade-NAS-and-VPN</td>
   </tr>
   <tr>
