@@ -4,7 +4,7 @@ Welcome to my Github page. I’m Joseph, and I am a student in Computer Science,
 
 Currently, I'm studying to attain a degree in computer science and cybersecurity from Liberty University.
 
-Also, I work as a full-time service desk analyst II at the University of Rochester.
+Also, I work as a full-time Service Desk Support Tech III at the University of Rochester.
 
 I’m interested in software engineering, robotics, embedded systems, machine learning, and everything that has to do with building useful software.
 I'm currently seeking any jobs/projects that allow me to grow as a developer.
