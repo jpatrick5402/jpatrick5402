@@ -16,7 +16,7 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
  <table align="center">
    <tr>
     <th>Embedded-Web-Server</th>
-    <th>C#/.NET WPF Desktop application</th>
+    <th>Service Desk Assist Tool</th>
     <th>Home File Server & VPN</th>
   </tr>
   <tr align="center">
