@@ -9,7 +9,7 @@ Also, I work as a full-time Service Desk Support Tech III at the University of R
 I’m interested in software engineering, robotics, embedded systems, machine learning, and everything that has to do with building useful software.
 I'm currently seeking any jobs/projects that allow me to grow as a developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpatrick5402&layout=donut&exclude_repo=dotfiles,HelpDeskTool&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpatrick5402&layout=donut&exclude_repo=.dotfiles,HelpDeskTool&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  ---
  <h1 align="center">Project Showcase</h1>
