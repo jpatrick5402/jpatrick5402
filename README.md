@@ -61,7 +61,7 @@ I'm currently seeking any jobs/projects that allow me to grow as a developer.
     <a href="mailto:jpatrick5402@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" width="100" height="25">
     </a>
-   <a href="http://jpatrick5402.github.io", target="blank">
+   <a href="http://jp54.dev", target="blank">
       <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge" width="100" height="25">
    </a>
   <br>
