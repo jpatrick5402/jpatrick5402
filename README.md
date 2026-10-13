@@ -7,7 +7,6 @@ I have a degree in Computer Science Cybersecurity from Liberty University
 Also, I work as a full-time Application Admin I at the University of Rochester.
 
 I’m interested in software engineering, robotics, embedded systems, machine learning, and everything that has to do with building useful software.
-I'm currently seeking any jobs/projects that allow me to grow as a developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpatrick5402&layout=donut&exclude_repo=.dotfiles,HelpDeskTool&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
